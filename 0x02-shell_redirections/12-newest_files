@@ -1,2 +1,2 @@
 #i/bin/bash
-la -t1 | head
+la -tl | head
